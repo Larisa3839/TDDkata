@@ -1,0 +1,6 @@
+C:\Users\Лариса\Documents\Visual Studio 2017\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\Лариса\Documents\Visual Studio 2017\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\Лариса\Documents\Visual Studio 2017\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\Лариса\Documents\Visual Studio 2017\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\Лариса\Documents\Visual Studio 2017\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\Users\Лариса\documents\visual studio 2017\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
